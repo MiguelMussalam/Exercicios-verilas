@@ -1,0 +1,62 @@
+$date
+	Mon Sep 09 09:26:26 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module ex_b_tb $end
+$var wire 1 ! tv $end
+$var wire 1 " cpu $end
+$var wire 1 # alexa $end
+$var reg 1 $ a $end
+$var reg 1 % b $end
+$var reg 1 & c $end
+$scope module uut $end
+$var wire 1 $ a $end
+$var wire 1 % b $end
+$var wire 1 & c $end
+$var reg 1 # alexa $end
+$var reg 1 " cpu $end
+$var reg 1 ! tv $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#20
+1#
+1&
+#40
+0#
+1"
+0&
+1%
+#60
+1&
+#80
+0"
+1!
+0&
+0%
+1$
+#100
+1&
+#120
+0&
+1%
+#140
+1&
+#160
